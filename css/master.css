@@ -1,0 +1,111 @@
+body{
+
+}
+ul{
+  list-style: none;
+}
+
+h1{
+  font-family: 'Anton', sans-serif;
+  padding: 3% 3% ;
+}
+
+h3,h2,h4{
+  font-family: 'Khand', sans-serif;
+  padding: 3% 3% ;
+}
+
+.continor-bar{
+  text-align: center;
+  background-color:
+
+}
+.logo-button{
+padding-left: 25%;
+}
+
+.navbar-brand{
+  position: relative;
+  left: 80%;
+}
+.collapse{
+  padding-left: 25%;
+}
+
+.main-title{
+  font-size: 4rem;
+}
+.what-is{
+  background-color: grey;
+  text-align: center;
+  padding: 5% 5%;
+}
+.img-bipor{
+  width: 100px;
+  height: auto;
+}
+
+.box{
+  text-align: center;
+
+
+/* main ilstrion */
+}
+.description{
+  padding: 3% 3%;
+}
+.happy{
+  background-color: black;
+  color: white;
+}
+.Bhappy{
+  padding-top: 3%;
+  float: left;
+}
+.happy{
+  padding-left: 0px;
+}
+.happy:hover{
+  background-color: red;
+  color: black;
+}
+
+.happy .img-top-happy{
+  display: none;
+  position: absolute;
+  z-index: 99;
+  left:0px;
+  top:24px;
+
+}
+.happy:hover .img-top-happy {
+  display: inline;
+}
+.Bsad{
+  padding-top: 3%;
+  float: right;
+}
+.sad{
+  padding-right: 0px;
+}
+.sad:hover{
+  background-color: blue;
+  color: white;
+}
+
+.sad .img-top-sad{
+  display: none;
+  position: absolute;
+  z-index: 99;
+  right:0px;
+  top:24px;
+}
+
+.sad:hover .img-top-sad{
+  display: inline;
+}
+
+.bottom{
+  text-align: center;
+  font-size: 2rem;
+}
